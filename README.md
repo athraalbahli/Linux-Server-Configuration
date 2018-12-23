@@ -24,3 +24,6 @@ Fifth Project on Udacity full stack developer nanodegree
 - Update path of client_secrets.json file
 - Update the db engine to postgresql
 - Configure firewall rules
+
+## grader user
+- location of ssh key is: /home/grader/.ssh/authorized_key
