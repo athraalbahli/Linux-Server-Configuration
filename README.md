@@ -70,7 +70,6 @@ Fifth Project on Udacity full stack developer nanodegree
 
 ## grader user
 - location of ssh key is: /home/grader/.ssh/authorized_key
-- the sudo password is provided in the student note tab
 
 ## Resources
 - [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
